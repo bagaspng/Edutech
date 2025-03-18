@@ -3,4 +3,4 @@ Buatkan kode javascript External sederhana yang berisikan nama, jurusan, dan npm
 Note :   
         * gunakan nama lengkap sebagai title webnya dan nama filenya   
         * lakukan fork repository dan pull request untuk mengumpul jawaban  
-        * Kumpul di folder kuis 1
+        * cara pengumpulannya dengan membuat folder dengan nama kalian didalam folder kuis 1
