@@ -1,6 +1,6 @@
-const nama = "M. Sidiq Firdaus";
+const nama = "Bagas Pangestu";
 const jurusan = "Teknik Informatika";
-const npm = "2315061118"; 
+const npm = "2315061010";
 
 // Menampilkan di Console
 console.log("Nama    : " + nama);
